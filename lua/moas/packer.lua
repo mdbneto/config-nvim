@@ -45,4 +45,6 @@ use {
     requires = { 'nvim-tree/nvim-web-devicons', opt = true }
 }
 
+use "lukas-reineke/indent-blankline.nvim"
+
   end)
